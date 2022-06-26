@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+  kull_m_acr.c
+  kull_m_patch.c
+  kull_m_rpc_ms-pac.c
+  kuhl_m_dpapi_powershell.c
+  kuhl_m_net.c
+d:\ptc\mimikatz\mimikatz\modules\kuhl_m_net.c : error C2220: warning treated as error - no 'object' file generated
+d:\ptc\mimikatz\mimikatz\modules\kuhl_m_net.c : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  kuhl_m_privilege.c
